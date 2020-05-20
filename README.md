@@ -1,1 +1,1 @@
-# AdvertPlatform
+# AdvertPlatform (Symfony)
